@@ -11,4 +11,5 @@ A little about me:
 - strategic board games, yes pls
 - orchestrated a successful career switch from Industrial to Software Engineering!
 - automating / simplifying / working with AWS, Kubernetes, Docker, Python, and Snowflake in my current role
+
 cheers
